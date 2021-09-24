@@ -1,4 +1,4 @@
-name: "EKS Action"
+name: "EKS Actions"
 description: "Interacts with kubernetes clusters on eks by `kubectl` commands."
 branding:
   icon: 'box'
